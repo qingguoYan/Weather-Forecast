@@ -13,7 +13,6 @@ https://openweathermap.org/
 ## 获取 API Key
 
 注册账号，验证后，在 My API keys 找到自己的 key，复制粘贴到 api 中去，如果请求 401，请稍等几分钟，等待 api key 的激活
-![alt text](<屏幕截图 2025-04-15 233843.png>)
 
 # 效果图展示
 
