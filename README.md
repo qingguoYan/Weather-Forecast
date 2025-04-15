@@ -16,6 +16,6 @@ https://openweathermap.org/
 
 # 效果图展示
 
-![alt text](image.png)
+![alt text](/images/image.png)
 
-![alt text](image-2.png)
+![alt text](/images/image-2.png)
